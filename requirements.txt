@@ -1,0 +1,14 @@
+# Dependências para as Atividades Python
+# Instale com: pip install -r requirements.txt
+
+# Para Atividade_06 - APIs e requisições HTTP
+requests>=2.31.0
+
+# Para análise e manipulação de dados
+datetime
+
+# Biblioteca padrão do Python - não precisa instalar
+# string
+# random
+# re (regex)
+# json
